@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🔴 URGENT – Looking for IPTV Panel Specialist
 
-<!--
-**moahmmed-ali/moahmmed-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi Syed (or any XUI expert who worked with me before on Upwork),
 
-Here are some ideas to get you started:
+My Upwork account was recently restricted, and I lost contact with you.  
+I’m still very interested in completing the IPTV project (XUI setup, stream integration).  
+Please reach out to me directly via:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: primorcode@outlook.com  
+📱 WhatsApp: +966501230768
+
+Thank you!
+
